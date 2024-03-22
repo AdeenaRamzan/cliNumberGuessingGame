@@ -1,4 +1,4 @@
-#! /use/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //Make computer to generate any random number
 const randomNumber = Math.floor(Math.random() * 6 + 1);
